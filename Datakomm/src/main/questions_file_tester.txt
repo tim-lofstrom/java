@@ -1,0 +1,2 @@
+Homework 4;The routers both in datagram networks and virtual-circuit networks use forwarding tables;True
+Homework 4;Internet Control Message Protocol is a protocol at the Transport layer;False

@@ -1,0 +1,40 @@
+Homework 4;The routers both in datagram networks and virtual-circuit networks use forwarding tables;True
+Homework 4;Internet Control Message Protocol is a protocol at the Transport layer;False
+Homework 4;When a host joins a multicast group, it must change its IP address to be that of the multicast group it is joining.;False
+Homework 4;IPv6 uses 64 bits addresses.;False
+Homework 4;With a help of ICMP protocol one can determine a minimum size MTU.;True
+Homework 4;Link-state routing protocol OSPF implements Dijkstra routing algorithm.;True
+Homework 4;The RIP routing protocol based on Bellman Ford algorithm may create loops in the topology.;True
+Homework 4;The OSPF protocol consumes more network resources than RIP for its operations.;True
+Homework 4;A router must be configured with only one IP address.;False
+Homework 4;The routing protocols for Inter-AS and Intra-AS are different.;True
+Homework 4;Head-of-line blocking occurs at the output port of a router.;False
+Homework 4;In a 2x2 switch to have no input port queuing, the switching fabric should operated at a speed at least 2 times the line speed.;True
+Homework 4;/24 network is larger than /29 network;True
+Homework 4;In a network with mask 255.255.255.252 there are maximum 8 IP enabled devices.;False
+Homework 4;Ethernet addresses are hierarchically structured while IP addresses are not.;False
+Homework 5;If all the links in the Internet were to provide reliable delivery service the TCP reliable delivery service will be redundant.;False
+Homework 5;The structure of the frame for 10BASE-T, 100BASE-T and Gigabit Ethernet is the same.;True
+Homework 5;A transparent bridge may be configured with an IP address.;True
+Homework 5;The efficiency of Slotted Aloha is almost 2 times higher than that of the unslotted variant.;True
+Homework 5;A 10 Mb/s Ethernet network can be arbitrary long.;False
+Homework 5;The Gigabit Ethernet is built using CSMA/CD technique.;False
+Homework 5;Ethernet adresses are hierarchically structured.;False
+Homework 5;ARP protocol is used to find out an IP address of the first router.;False
+Homework 5;The nodes connected to different ports of a learning switch belong to the same collision domain.;False
+Homework 5;A spanning tree protocol is invented to avoid loops in LANs.;True
+Homework 6;Ethernet and 802.11 use the same frame structure.;True
+Homework 6;Bluetooth devices may interfere with WiFi networks.;True
+Homework 6;WiFi is a narrowband technology.;False
+Homework 6;Before 802.11 station transmits a data frame, it must first send an RTS frame and receive a corresponding CTS frame.;False
+Homework 6;The physical layer of both WLAN and 3G technologies use CDMA technique.;False
+Homework 6;RTS/CTS mechanism reduces the useful throughput in a wireless network.;True
+Homework 6;As a mobile node gets farther and farther away from a base station, the base station could take two actions to minimize the loss probability of a transmitted frame: reduce the transmission power and increase the transmission rate.;False
+Homework 6;The MAC protocol for WiFi networks is based on CSMA/CD technique.;False
+Homework 6;In the infrastructure mode of two WIFI enabled computers may communicate directly with each other if they are located in the common communication range.;False
+Homework 6;If stored video is streamed directly from a Web server to a media player then the application is using TCP as the underlying transport protocol.;False
+Homework 6;In differentiated services, while per-hop behavior defines differences in performance amongst classes, it does not mandate any particular mechanism for achieving these performances.;True
+Homework 6;RSVP is a protocol for signaling quality requirements of media sessions to the intermediate routers.;True
+Homework 6;Consider sending a stream of packets from Host A to Host B using IPsec. Typically a new SA will be established for each packet sent in the stream.;False
+Homework 6;Suppose certifier.com creates a certificate fro foo.com. Typically the entire certificate would be encrypted with certifier.com's public key.;False
+Homework 6;Digitally signing an e-mail means encrypting its entire content with the private key of the sender.;False

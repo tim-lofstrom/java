@@ -1,0 +1,10 @@
+rwnd;640
+Kurt;610
+Kurt;610
+asd;440
+Kurt;380
+Kurtan;380
+asd;300
+hampus;290
+KURTAN;260
+;250

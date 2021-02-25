@@ -1,0 +1,5 @@
+gustav;184
+kurt;74
+Kurt;44
+hampus;10
+KURTAN;10
